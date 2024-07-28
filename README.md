@@ -1,2 +1,2 @@
 # Stop-Watch
-This Stop-Watch contains hr, min, sec and mili-sec.
+This Stop-Watch contains hr, min and sec.
